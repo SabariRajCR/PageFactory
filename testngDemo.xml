@@ -8,4 +8,4 @@
       <class name="com.leaftaps.testcase.CreateLead"/>
     </classes>
   </test> <!-- CreateLead -->
-</suite> <!-- Suite -->
+</suite> 
