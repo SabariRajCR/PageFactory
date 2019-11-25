@@ -94,7 +94,7 @@
 				<version>2.22.1</version>
 				<configuration>
 					<suiteXmlFiles>
-						<suiteXmlFile>C:\Automation QA\Workspace\PageFactory\testngDemo.xml</suiteXmlFile>
+						<suiteXmlFile>C:\AutomationPersonal\Workspace\PageFactory\testngDemo.xml</suiteXmlFile>
 					</suiteXmlFiles>
 				</configuration>
 			</plugin>
